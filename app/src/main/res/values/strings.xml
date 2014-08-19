@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inverter</string>
+    <string name="hello_world">Hello Inverter!</string>
+    <string name="Restart">重新开始</string>
+    <string name="NewGame">新游戏</string>
+    <string name="Instructions">说明</string>
+
+</resources>
